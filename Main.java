@@ -1,4 +1,4 @@
-package test;
+package myAlgorithm;
 
 import java.util.ArrayList;
 import java.util.Collections;
@@ -34,5 +34,6 @@ public class Main {
 		}
 		scan.close();
 	}
+	// 바꿔보기
 
 }
